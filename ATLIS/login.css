@@ -1,0 +1,27 @@
+body{
+    background-color: sienna;
+}
+
+#image2{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    text-align: right;
+    top: 3%;
+    left: 94%;
+}
+
+
+
+
+
+
+#image3{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    text-align: right;
+    top: 3%;
+    left: 97%;
+
+}
